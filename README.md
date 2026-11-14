@@ -1,7 +1,7 @@
 # AI for HR Lab
 
 Session site for a 90-minute hands-on AI lab with senior HR leaders in Goa.
-Everything in `files/` belongs to Monsoon Bay Pharma, a fictional company invented for training.
+Everything in `files/` belongs to CureAll Pharma, a fictional company invented for training.
 
 ## Publish on GitHub Pages
 
